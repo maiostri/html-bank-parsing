@@ -1,0 +1,14 @@
+{
+  "name": "html-bank-parsing",
+  "version": "1.0.0",
+  "description": "Parser to generate a XLS file based on a HTML file from Internet Banking. ",
+  "main": "html-bank-parsing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^9.8.3"
+  }
+}
